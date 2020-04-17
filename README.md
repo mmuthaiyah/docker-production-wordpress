@@ -16,7 +16,7 @@ If you want to get this docker image, just puill from the Docker registry
 
 ## Using with Docker-Compose
 
-For testing added this line
+## For testing added this line
 
 If you want to spin a running environment, you can do it vía docker-compose
 
